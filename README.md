@@ -33,7 +33,7 @@ Provides a high-level operational overview of production and rejection across fi
 Provides detailed analysis of rejection drivers, including parts, defect types, and tonnage impact.
 
 ## Dashboard Modules
-### Module 1 — Business Enabler Value Report (BEVR)
+#### Module 1 — Business Enabler Value Report (BEVR)
 The BEVR dashboard provides a management-level view of manufacturing performance.
 
 Key Metrics Tracked across all Firewall stages:
@@ -49,7 +49,7 @@ These metrics allow management to quickly evaluate - Overall production performa
 
 Purpose: To provide functional heads and managers with a quick snapshot of manufacturing performance during review meetings. This helps teams quickly identify which firewall stage requires attention.
 
-### Module 2 — Quality Rejection Analytics Dashboard
+#### Module 2 — Quality Rejection Analytics Dashboard
 This dashboard focuses on deep analysis of rejection drivers.
 
 Each phase dashboard includes the following KPIs:
@@ -74,6 +74,12 @@ Key Improvements
 - High-rejection parts could be identified quickly
 - Financial impact of defects became clearly visible
 - Rejection performance across firewall stages could be compared easily
+
+## Why This Project Matters
+This project demonstrates how manufacturing production data can be transformed into actionable operational insights.
+
+By combining performance monitoring with rejection analysis, the system allows manufacturing teams to move from
+Manual spreadsheet analysis → Visual data-driven decision making
 
 ## Tools & Technologies Used
 - Google Looker Studio – Dashboard development and data visualization
