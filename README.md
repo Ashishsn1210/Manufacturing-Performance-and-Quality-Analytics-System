@@ -4,8 +4,8 @@
 This project presents a Manufacturing Performance and Quality Analytics System developed using Google Looker Studio to monitor production performance and analyze quality rejection across multiple manufacturing firewall stages.
 
 The system combines two dashboards:
-1. Business Enabler Value Report (BEVR) – High-level operational monitoring used by management.
-2. Quality Rejection Analytics Dashboard – Detailed rejection analysis to identify root causes.
+1. Operations Performance Monitoring – High-level operational monitoring used by management.
+2. Quality Rejection Analytics – Detailed rejection analysis to identify root causes.
 
 Together, these dashboards provide both Operational performance monitoring and Root cause analysis of rejection
 
@@ -26,15 +26,15 @@ This created several challenges:
 To address this problem, a two-layer manufacturing analytics system was developed using Looker Studio.
 
 The solution includes:
-### 1. Business Performance Monitoring Dashboard
+### 1. Operarions Performance Monitoring Dashboard
 Provides a high-level operational overview of production and rejection across firewall stages.
 
 ### 2. Quality Rejection Analytics Dashboard
 Provides detailed analysis of rejection drivers, including parts, defect types, and tonnage impact.
 
 ## Dashboard Modules
-#### Module 1 — Business Enabler Value Report (BEVR)
-The BEVR dashboard provides a management-level view of manufacturing performance.
+#### Module 1 — Operations Intelligence Dashboard
+The dashboard provides a management-level view of manufacturing performance.
 
 Key Metrics Tracked across all Firewall stages:
 - Produced Tonnage
