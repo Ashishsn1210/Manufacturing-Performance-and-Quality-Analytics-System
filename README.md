@@ -75,13 +75,13 @@ Key Improvements
 - Financial impact of defects became clearly visible
 - Rejection performance across firewall stages could be compared easily
 
+## Tools & Technologies Used
+- Google Looker Studio – Dashboard development and data visualization
+- Google Sheets / Excel – Data preparation and transformation
+- Manufacturing production datasets – Source data for analytics
+
 ## Why This Project Matters
 This project demonstrates how manufacturing production data can be transformed into actionable operational insights.
 
 By combining performance monitoring with rejection analysis, the system allows manufacturing teams to move from
 Manual spreadsheet analysis → Visual data-driven decision making
-
-## Tools & Technologies Used
-- Google Looker Studio – Dashboard development and data visualization
-- Google Sheets / Excel – Data preparation and transformation
-- Manufacturing production datasets – Source data for analytics
