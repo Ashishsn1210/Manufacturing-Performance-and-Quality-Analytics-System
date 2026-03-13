@@ -68,9 +68,16 @@ In addition to quantity and value analysis, the dashboard also analyzes rejectio
 This helps identify material loss caused by rejected parts, which is important for Raw material cost control, Production efficiency, and Waste reduction initiatives.
 
 #### Dashboard Overview
+Firewall-1 Analytics
 ![Firewall-1](https://github.com/Ashishsn1210/Manufacturing-Performance-and-Quality-Analytics-System/blob/3632de74ce20e5d5b1ddab902d3b132265a16a8c/Dashboard_Images/Quality_Rej_F1.png)
+
+Firewall-2 Analytics
 ![Firewall-2](https://github.com/Ashishsn1210/Manufacturing-Performance-and-Quality-Analytics-System/blob/3632de74ce20e5d5b1ddab902d3b132265a16a8c/Dashboard_Images/Quality_Rej_F2.png)
+
+Final Inspection Analytics
 ![Final Inspection](https://github.com/Ashishsn1210/Manufacturing-Performance-and-Quality-Analytics-System/blob/3632de74ce20e5d5b1ddab902d3b132265a16a8c/Dashboard_Images/Quality_Rej_FI.png)
+
+Overall Rejection in Tonnage Analytics
 ![Overall_Rej_Ton](https://github.com/Ashishsn1210/Manufacturing-Performance-and-Quality-Analytics-System/blob/3632de74ce20e5d5b1ddab902d3b132265a16a8c/Dashboard_Images/Overall_Rej_Ton.png)
 
 ## Business Impact
