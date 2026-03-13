@@ -1,4 +1,4 @@
-# Manufacturing Performance & Quality Analytics System
+# Operations Performance & Quality Analytics System
 
 ## Project Overview
 This project presents a Manufacturing Performance and Quality Analytics System developed using Google Looker Studio to monitor production performance and analyze quality rejection across multiple manufacturing firewall stages.
